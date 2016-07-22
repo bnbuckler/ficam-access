@@ -1,11 +1,11 @@
 <script src="https://use.fontawesome.com/e20c671b68.js"></script>
 
-# Streamline Identity Management
+# Manage Access Control
 ----------------------------------------------------------------
 <div style="background-color: #cbe3fc;color: black;margin: 0px;padding: 10px">
-<h3><span>What is the Access Control Management Programmatic Playbook?</span></h3>
+<h3><span>What is the Manage Access Control Playbook?</span></h3>
 
-<p><span>As the potential for internal and external threats to organizational security continue to grow, your agency should continue to focus on access control to protect its sensitive resources by making sure only authorized users have access to protected resources.  You may find the implementation of proper access management processes challenging because of the growing number of users, systems/applications, and facilities. As the threat landscape expands and the management of access control becomes increasingly complex, you’ll need a detailed strategy for resolving cybersecurity threats and controlling access to their resources in an automated fashion.</span></p>
+<p><span>As the potential for internal and external threats to organizational security continue to grow, your agency should continue to focus on access control to protect its sensitive resources by making sure only authorized users have access.  You may find the implementation of proper access management processes challenging because of the growing number of users, systems/applications, and facilities. As the threat landscape expands and the management of access control becomes increasingly complex, you’ll need a detailed strategy for resolving cybersecurity threats and controlling access to their resources in an automated fashion.</span></p>
 
 <p><span>This playbook will give you the answers to several common access control questions, including:</span></p>
 	<ul>
@@ -132,16 +132,6 @@ After conducting a policy analysis, you should define your agencies access contr
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Analyze existing tools and technologies.** Lastly, you should perform an analysis on your current tools and technologies that can be used to address the requirements produced during the Policy Analysis, Resource Analysis and Data Analysis processes. Analyzing tools and technologies that are already implemented will allow you create requirements that can help determine if your current assets address the security, access control, and data requirements, identified during requirements planning or if new tools and technologies need to be procured or developed. This can also lead to potential cost savings as it allows your agency to use the current infrastructure before procuring or developing new tools and technologies. If new tools and technologies are needed, you should also calculate return on investment (ROI) to evaluate whether the new tools and technologies should be procured or developed. 
 
-<br>
-
-<div style="background-color: #edf1f3;color: black;margin: 10px;padding: 10px">
-
-<h3><span>FAQ</span></h3>
-<p><strong>Are there any tools available to help determine the level of authentication risk associated with my information systems?</strong></p>
-Yes, the eAuthentication Risk and Requirements Assessment (e-RA) tool can be leveraged to assist in determining logical access control risks and appropriate levels of assurance, as defined in M-04-04. e-RA is available on the Federal Government’s identity management website. Additional guidance for conducting overall security risk assessments is provided in FIPS 199.
-
-</div>
-
 
 ## <span style="color: #a61406"><a name="step4"></a>**Step 4: Identify and Assess Your Protected Resources**</span>
 
@@ -151,7 +141,7 @@ For many existing resources, your agency has likely already determined which res
 
 <br>
 
-| <center> Agency Function </center> | <center> Information Available </center> | <center Resource Type </center> |
+| <center> Agency Function </center> | <center> Information Available </center> | <center> Resource Type </center> |
 |-------------------------------------------------------------------------------------|
 | Facility Management Group / Physical Security Group | Information regarding resources that must be secured using Physical Access Control System (PACS). | <center> Physical </center> | 
 | Real Property Group | Information regarding land, building, and improvements that are owned or leased by a federal agency. | <center> Physical </center> | 
@@ -181,6 +171,15 @@ For many existing resources, your agency has likely already determined which res
 
 > <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> &nbsp;**Each resource has its own role in your agency’s mission and is subject to potential vulnerabilities and threats.** You must consider how to minimize those vulnerabilities and mitigate threats while maximizing the effective use of the resource and making it available to the appropriate users. As you perform risk assessments of the resources, you’ll be able to identify resource vulnerabilities and the associated risks, and devise solutions to mitigate the risks. The results of this process will determine what other specific elements of the Access Management Framework should be applied during the implementation. This assessment should consist of evaluating how alternative access control models might be applied to the resource, including centrally-controlled enterprise systems and the capabilities of the local resource. 
 
+<br>
+
+<div style="background-color: #edf1f3;color: black;margin: 10px;padding: 10px">
+
+<h3><span>FAQ</span></h3>
+<p><strong>Are there any tools available to help determine the level of authentication risk associated with my information systems?</strong></p>
+Yes, the <a href="https://www.idmanagement.gov/IDM/s/article_search_detail?KID=ka1t00000004DfQAAU&Type=Site_Article__kav" target="_blank"> eAuthentication Risk and Requirements Assessment (e-RA) tool </a> can be leveraged to assist in determining logical access control risks and appropriate levels of assurance, as defined in M-04-04. Additional guidance for conducting overall security risk assessments is provided in FIPS 199.
+
+</div>
 
 ## <span style="color: #a61406"><a name="step5"></a>**Step 5: Collect and Organize Resource Information**</span>
 
@@ -378,7 +377,7 @@ There are three main types of data:</span></p>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Process and integrate data.** Once data is obtained, you must integrate and possibly format the data so that it can be used to make an access control decision. This processing can include entering data, verifying its authenticity, extracting data into a usable form, or simply importing it from the data source. Processing formats data so that it can be appropriately consumed during an access control decision.
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Analyze data.**During this phase, you’ll analyze data to capitalize on any opportunities that may require further interpretation of data. This can involve tagging data to make it more useful to a wider array of resources, performing quality assurance practices, or even detecting patterns that can be used in the development of policies that advance access security.
+> <i class="fa fa-check-square-o"></i> &nbsp;**Analyze data.** During this phase, you’ll analyze data to capitalize on any opportunities that may require further interpretation of data. This can involve tagging data to make it more useful to a wider array of resources, performing quality assurance practices, or even detecting patterns that can be used in the development of policies that advance access security.
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Preserve data.** Data preservation involves the processes and procedures performed to store data for future reuse. During this phase, you’ll store timeframes and establish intervals. Preservation may include the archival of certain data elements for historical purposes. The preservation of data minimizes the amount of duplicative work performed because it eliminates the need to acquire data that’s already stored and/or archived. It also provides additional opportunities to share the stored data with business partners to exercise in their own access control processes, including the real-time retrieval of subject/identity data from authoritative sources.
 
@@ -416,7 +415,7 @@ You should create well-defined, meaningful policies that address the security ne
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Define the access control policy scope and requirements for a target asset or resource.** The following considerations and inputs influence the access control policy definition process, including but not limited to: environment, users, unauthorized access risks, and existing policies, rules or internal processes that currently govern access to the resource or asset. The purpose of the Policy Definition process is to hone the general access control requirements of the protected resource into specific, well-defined requirements while taking other factors into account, such as federal standards and agency policies.
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Analyze policy definitions.** During this process, you’ll examine and analyze the policy definition outputs and findings that will help refine or create new access control policies. The analysis of the risks, rules, and inputs discovered is used to determine the authentication token type, the access control model, the relevant authorization model, and the tools used to enforce access. As previously mentioned, the access control model has an effect on every aspect of the Framework and should be selected appropriately. The fact that the access control model is determined during this phase highlights the importance of the Policy Administration Life Cycle.
+> <i class="fa fa-check-square-o"></i> &nbsp;**Analyze policy definitions.** During this process, you’ll examine and analyze the policy definition outputs and findings that will help refine or create new access control policies. The analysis of the risks, rules, and inputs discovered is used to determine the authentication token type, the access control model, the relevant authorization model, and the tools used to enforce access. As previously mentioned, the access control model has an effect on every aspect of the Framework and should be selected appropriately. 
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Create access control policies using access control mechanisms and technology platforms.** During this creation phase, you’ll focus on building access control policies based on the rules, requirements, and designs developed in previous phases. You’ll also need to test use cases to evaluate the efficacy of the policy created are developed during this phase.
 
@@ -433,7 +432,7 @@ You should create well-defined, meaningful policies that address the security ne
 
 </div>
 
-> <i class="fa fa-check-square-o"></i> &nbsp;Evaluate the policy or policies. During this phase you’ll evaluate the policies designed and developed on test assets or resources. The use cases developed during the creation phase are used to independently test how well the requirements are being met. The results of these tests can then be used to improve the policy to validate that defined metrics and goals are being met.
+> <i class="fa fa-check-square-o"></i> &nbsp;**Evaluate the policy or policies.** During this phase you’ll evaluate the policies designed and developed on test assets or resources. The use cases developed during the creation phase are used to independently test how well the requirements are being met. The results of these tests can then be used to improve the policy to validate that defined metrics and goals are being met.
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Implement and enforce new policies.** During this process, you’ll carry out the new or revised policy on a production physical or logical asset or resource.  Once implemented, the policy can be tested to verify compliance with requirements.
 
