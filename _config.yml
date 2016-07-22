@@ -1,10 +1,10 @@
 # Site settings
-title: Access Control Management Programmatic Playbook
-name: Access Control Management Programmatic Playbook
+title: Manage Access Control Playbook
+name: Manage Access Control Playbook
 email: icam@gsa.gov
 author:
     name: FICAM
-description: Identity Guidance
+description: Access Control Guidance
 baseurl: '/ficam-access'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -22,7 +22,7 @@ ficam_playbooks_url: /ficam-guides/
 # List repos that you would like to appear on the homepage here
 repos:
 - name: program-guides
-  description: FICAM Playbook - Access Control Management
+  description: FICAM Playbook - Manage Access Control
   url: https://github.com/gsa/ficam-access
 
 # Build settings
