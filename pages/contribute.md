@@ -5,7 +5,7 @@ permalink: /contribute/
 ---
 --------------------------------------------------------------
 
-This site is for the collaborative development of the Federal Identity, Credential and Access Management (FICAM) Access Control Management Programmatic Playbook. 
+This site is for the collaborative development of the Federal Identity, Credential and Access Management (FICAM) Manage Access Control Playbook. 
 
 ### How to Contribute
 
