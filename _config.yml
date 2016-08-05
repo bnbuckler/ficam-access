@@ -65,6 +65,10 @@ navigation:
   url: 5_step-5
   internal: true
   coll: false
+- text: Access Management Framework
+  url: framework
+  internal: true
+  coll: false
 - text: Step 6 - Choose Your Access Control Model
   url: 6_step-6
   internal: true
