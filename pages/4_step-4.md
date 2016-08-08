@@ -73,11 +73,3 @@ For many existing resources, your agency has likely already determined which res
 ### Benefits
 
 > <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> &nbsp;**Each resource has its own role in your agency’s mission and is subject to potential vulnerabilities and threats.** You must consider how to minimize those vulnerabilities and mitigate threats while maximizing the effective use of the resource and making it available to the appropriate users. As you perform risk assessments of the resources, you’ll be able to identify resource vulnerabilities and the associated risks, and devise solutions to mitigate the risks. The results of this process will determine what other specific elements of the Access Management Framework should be applied during the implementation. This assessment should consist of evaluating how alternative access control models might be applied to the resource, including centrally-controlled enterprise systems and the capabilities of the local resource. 
-
-<br>
-
-<div style="background-color: #edf1f3;color: black;margin: 10px;padding: 10px">
-
-<h3><span>FAQ</span></h3>
-<p><strong>Are there any tools available to help determine the level of authentication risk associated with my information systems?</strong></p>
-Yes, the <a href="https://www.idmanagement.gov/IDM/s/article_search_detail?KID=ka1t00000004DfQAAU&Type=Site_Article__kav" target="_blank"> eAuthentication Risk and Requirements Assessment (e-RA) tool </a> can be leveraged to assist in determining logical access control risks and appropriate levels of assurance, as defined in M-04-04. Additional guidance for conducting overall security risk assessments is provided in FIPS 199.

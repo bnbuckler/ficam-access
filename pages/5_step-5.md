@@ -16,7 +16,7 @@ $(function() {
 <script src="https://use.fontawesome.com/e20c671b68.js"></script>
 -----------------------------------------------------------
 
-Risk assessments should be conducted for both physical (e.g., facilities) and logical (e.g., network and infrastructure) resources. To complete this assessment, you must follow federal guidelines outlined in the <a href="https://www.dhs.gov/sites/default/files/publications/ISC_Risk-Management-Process_Aug_2013.pdf" target="_blank"> Risk Management Process for Federal Facilities: An Interagency Security Committee Standard</a> and the <a href="http://csrc.nist.gov/publications/nistpubs/800-37-rev1/sp800-37-rev1-final.pdf" target="_blank"> Guide for Applying the Risk Management Framework to Federal Information Systems.</a> The Resource Risk Assessment will also help you create access control requirements based on the level of risk identified for each physical 
+Risk assessments should be conducted for both physical (e.g., facilities) and logical (e.g., network and infrastructure) resources. To complete this assessment, you must follow federal guidelines outlined in the <a href="https://www.dhs.gov/sites/default/files/publications/ISC_Risk-Management-Process_Aug_2013.pdf" target="_blank"> Risk Management Process for Federal Facilities: An Interagency Security Committee Standard</a> and the <a href="http://csrc.nist.gov/publications/nistpubs/800-37-rev1/sp800-37-rev1-final.pdf" target="_blank"> Guide for Applying the Risk Management Framework to Federal Information Systems.</a> The Resource Risk Assessment will also help you create access control requirements based on the level of risk identified for each resource.
  
 
 ### Additional Facility Risk Assessment Considerations
