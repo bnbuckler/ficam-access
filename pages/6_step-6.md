@@ -1,7 +1,7 @@
 ---
 layout: page_collection
-title: Step 6 - Choose your Access Control Model
-permalink: 6_step-6/
+title: Step 6 - Choose Your Access Control Model
+permalink: 6_step-6
 ---
 <script>
 $(function() {
