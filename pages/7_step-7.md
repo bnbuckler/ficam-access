@@ -1,7 +1,7 @@
 ---
 layout: page_collection
-title: Step 7 - Implement the Data Management Life Cycle
-permalink: 7_step-7/
+title: Step 7 - Establish the Data Management Life Cycle
+permalink: 7_step-7
 ---
 <script>
 $(function() {
@@ -14,7 +14,7 @@ $(function() {
 </script>
 
 <script src="https://use.fontawesome.com/e20c671b68.js"></script>
---------------------------------------
+-----------------------------------------------------------
 
 The Data Management Life Cycle focuses on identifying, obtaining, and maintaining required data elements that enable access control decisions. Maintaining current data is essential to effective access management. Using incorrect or out of date data can lead to successful access attempts by unauthorized users that put an agency’s resources in jeopardy. The Data Management Life Cycle defines the phases agencies can follow to maintain current data.
 
@@ -45,19 +45,3 @@ There are three main types of data:</span></p>
 > <i class="fa fa-check-square-o"></i> &nbsp;**Preserve data.** Data preservation involves the processes and procedures performed to store data for future reuse. During this phase, you’ll store timeframes and establish intervals. Preservation may include the archival of certain data elements for historical purposes. The preservation of data minimizes the amount of duplicative work performed because it eliminates the need to acquire data that’s already stored and/or archived. It also provides additional opportunities to share the stored data with business partners to exercise in their own access control processes, including the real-time retrieval of subject/identity data from authoritative sources.
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Use data to make decisions.** Data is used during the Policy Execution part of the Framework to determine if the subject is authorized to access the protected resource. The access control model components in the Framework diagram reference the data necessary to render an access control decision in the Policy Execution part.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

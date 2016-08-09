@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Step 3 -  Define Your Agency’s Access Control Requirements
+title: Step 3 - Define Access Control Requirements
 permalink: 3_step-3
 ---
 <script>
@@ -14,7 +14,7 @@ $(function() {
 </script>
 
 <script src="https://use.fontawesome.com/e20c671b68.js"></script>
-------------------------------------------------------------------
+-----------------------------------------------------------
 
 After conducting a policy analysis, you should define your agencies access control requirements. This process will help you determine the access control model(s) and supporting enablers that best fit your agency’s needs. 
 

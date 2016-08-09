@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Acccess Management Framework
+title: Access Management Framework
 permalink: framework
 ---
 <script>
