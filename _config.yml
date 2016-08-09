@@ -93,7 +93,6 @@ navigation:
   url: contribute
   internal: true
   coll: false
-  
 include:
 - _stylesheets
 - _javascript
