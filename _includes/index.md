@@ -18,7 +18,7 @@
 
 <h3><span>How is the playbook structured?</span></h3>
 
-<p><span>We developed this playbook into 3 high-level topic areas and 10 individual steps, or activities. Within each step, you will find a checklist to help you perform that activity and additional guidance, like frequently asked questions (FAQs), implementation tips, or security and privacy considerations.</span></p>
+<p><span>We developed this playbook into 10 individual steps, or activities. Within each step, you will find a checklist to help you perform that activity and additional guidance, like frequently asked questions (FAQs), implementation tips, or security and privacy considerations.</span></p>
 
 
 <h3><span>How was the playbook developed?</span></h3>
