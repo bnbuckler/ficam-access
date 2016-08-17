@@ -2,19 +2,21 @@
 
 # Manage Access Control
 ----------------------------------------------------------------
-<div style="background-color: #cbe3fc;color: black;margin: 0px;padding: 10px">
-<h3><span>What is the Manage Access Control Playbook?</span></h3>
+### What is the Manage Access Control Playbook?
 
-<p><span>As the potential for internal and external threats to organizational security continue to grow, your agency should continue to focus on access control to protect its sensitive resources by making sure only authorized users have access.  You may find the implementation of proper access management processes challenging because of the growing number of users, systems/applications, and facilities. As the threat landscape expands and the management of access control becomes increasingly complex, you’ll need a detailed strategy for resolving cybersecurity threats and controlling access to their resources in an automated fashion.</span></p>
+As the potential for internal and external threats to organizational security continue to grow, your agency should continue to focus on access control to protect its sensitive resources by making sure only authorized users have access.  You may find the implementation of proper access management processes challenging because of the growing number of users, systems/applications, and facilities. As the threat landscape expands and the management of access control becomes increasingly complex, you’ll need a detailed strategy for resolving cybersecurity threats and controlling access to their resources in an automated fashion.
 
-<p><span>This playbook will give you the answers to several common access control questions, including:</span></p>
-	<ul>
-	<li><span>What is access control?</span></li>
-	<li><span>What is the Access Management Framework (AMF)? </span></li>
-	<li><span>What should I consider when planning my access control strategy?</span></li>
-	<li><span>How do I choose the most appropriate Access Control Model for my agency?</span></li>
-	<li><span>What are and how do I implement the four access control life cycles?</span></li>
-	</ul>
+This playbook will give you the answers to several common access control questions, including:
+
+> * What is access control?
+
+> * What is the Access Management Framework (AMF)?
+	
+> * What should I consider when planning my access control strategy?
+
+> * How do I choose the most appropriate Access Control Model for my agency?
+
+> * What are and how do I implement the four access control life cycles?
 
 <h3><span>How is the playbook structured?</span></h3>
 
