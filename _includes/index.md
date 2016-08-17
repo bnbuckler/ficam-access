@@ -1,5 +1,3 @@
-<script src="https://use.fontawesome.com/e20c671b68.js"></script>
-
 # Manage Access Control
 ----------------------------------------------------------------
 
