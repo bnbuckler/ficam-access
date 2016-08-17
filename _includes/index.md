@@ -18,24 +18,22 @@ This playbook will give you the answers to several common access control questio
 
 > * What are and how do I implement the four access control life cycles?
 
-<h3><span>How is the playbook structured?</span></h3>
+### How is the playbook structured?
 
-<p><span>We developed this playbook into 10 individual steps, or activities. Within each step, you will find a checklist to help you perform that activity and additional guidance, like frequently asked questions (FAQs), implementation tips, or security and privacy considerations.</span></p>
-
-
-<h3><span>How was the playbook developed?</span></h3>
-
-<p><span>This playbook was created using updated and migrated content that previously was found in the FICAM Roadmap and Implementation Guidance v2.0 and the Access Management Framework, developed by the ICAMSC in 2011 and 2014, respectively. We hope that the new format encourages you and your agency to contribute to additional content to support the access control management across the Federal government.</span></p>
+We developed this playbook into 10 individual steps, or activities. Within each step, you will find a checklist to help you perform that activity and additional guidance, like frequently asked questions (FAQs), implementation tips, or security and privacy considerations.
 
 
-<h3><span>Where can I find additional content?</span></h3>
+### How was the playbook developed?
 
-<p><span>The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver access management capabilities. We recommend that you visit the <a href="http://gsa.github.io/ficam-arch/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of access management and its role in broader federal Identity, Credential, and Access Management (ICAM).</span></p>
+This playbook was created using updated and migrated content that previously was found in the FICAM Roadmap and Implementation Guidance v2.0 and the Access Management Framework, developed by the ICAMSC in 2011 and 2014, respectively. We hope that the new format encourages you and your agency to contribute to additional content to support the access control management across the Federal government.
 
 
-<h3><span>How can I contribute to this playbook?</span></h3>
+### Where can I find additional content?
 
-<p><span>We look forward to your use and contribution to this playbook. Please visit our  <a href="http://bnbuckler.github.io/ficam-identity/contribute/" target =" _blank"> Contribute page </a> to learn how to post questions and contribute content.</span></p>
+The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver access management capabilities. We recommend that you visit the <a href="http://gsa.github.io/ficam-arch/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of access management and its role in broader federal Identity, Credential, and Access Management (ICAM).
 
-</div>
+
+### How can I contribute to this playbook?
+
+We look forward to your use and contribution to this playbook. Please visit our  <a href="http://bnbuckler.github.io/ficam-identity/contribute/" target =" _blank"> Contribute page </a> to learn how to post questions and contribute content.
 
