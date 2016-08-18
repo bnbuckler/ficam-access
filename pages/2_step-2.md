@@ -16,14 +16,14 @@ $(function() {
 <script src="https://use.fontawesome.com/e20c671b68.js"></script>
 -----------------------------------------------
 
-To properly collect your agency’s requirements, you must fully understand your agency’s current policies across the enterprise. Benefits of conducting a policy analysis include gaining a better understanding of baseline access control expectations and limitations, the selection and implementation of access control measures, and supporting enablers to protect your agency’s resources.
+To collect your agency’s requirements, you need to understand your agency’s current policies across the enterprise. Conducting a policy analysis will help you better understand the existing access control expectations and limitations, the selection and implementation of access control measures, and supporting enablers to protect your agency’s resources.
 
 
 ### Checklist 
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Analyze existing policies.** You should review your agencies current policies and identify the policies that may have an impact on access management decisions. You should determine if your agency’s current access control policies are aligned with the broader access control objectives and goals. This will allow you to determine if your agency should develop new policies to enforce appropriate access control requirements agency-wide.
+> <i class="fa fa-check-square-o"></i> &nbsp;**Analyze existing policies.** You should review your agency's current policies and identify those that may have an impact on access management decisions. The, determine if your agency’s current access control policies are aligned with the broader access control goals and objectives. This will help you to determine if your agency should develop new policies to enforce appropriate access control requirements agency-wide.
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Establish baseline access control policies.** During this activity, you should define baseline access control policies that define minimum security requirements for access control at the enterprise level. This will help establish access control standards for protecting agency resources across the enterprise.
+> <i class="fa fa-check-square-o"></i> &nbsp;**Establish baseline access control policies.** You should establish baseline access control policies that define minimum security requirements at the enterprise level. This helps you establish access control standards for protecting agency resources across the enterprise. Below are a few access control management policy examples.
 
 <br>
 
